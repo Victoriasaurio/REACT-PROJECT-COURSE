@@ -1,0 +1,10 @@
+.headerTitle {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.content-hero {
+    border-radius: 5px;
+    background-color: #e3f6ff;
+}
